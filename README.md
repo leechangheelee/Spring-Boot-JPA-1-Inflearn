@@ -4,3 +4,6 @@
 
 ## **프로젝트 환경설정**
   * https://github.com/leechangheelee/Spring-Boot-JPA-1-Inflearn/blob/main/프로젝트-생성.md
+
+## **도메인 분석 설계**
+  * https://github.com/leechangheelee/Spring-Boot-JPA-1-Inflearn/blob/main/도메인-분석-설계.md
