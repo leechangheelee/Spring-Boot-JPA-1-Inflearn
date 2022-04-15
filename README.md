@@ -7,3 +7,6 @@
 
 ## **도메인 분석 설계**
   * https://github.com/leechangheelee/Spring-Boot-JPA-1-Inflearn/blob/main/도메인-분석-설계.md
+
+## **애플리케이션 구현 준비**
+  * https://github.com/leechangheelee/Spring-Boot-JPA-1-Inflearn/blob/main/애플리케이션-구현-준비.md
