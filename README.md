@@ -10,3 +10,6 @@
 
 ## **애플리케이션 구현 준비**
   * https://github.com/leechangheelee/Spring-Boot-JPA-1-Inflearn/blob/main/애플리케이션-구현-준비.md
+
+## **회원 도메인 개발**
+  * https://github.com/leechangheelee/Spring-Boot-JPA-1-Inflearn/blob/main/회원-도메인-개발.md
