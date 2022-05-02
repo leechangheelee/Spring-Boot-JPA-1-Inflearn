@@ -16,3 +16,6 @@
 
 ## **상품 도메인 개발**
   * https://github.com/leechangheelee/Spring-Boot-JPA-1-Inflearn/blob/main/상품-도메인-개발.md
+
+## **주문 도메인 개발**
+  * https://github.com/leechangheelee/Spring-Boot-JPA-1-Inflearn/blob/main/주문-도메인-개발.md
